@@ -1,0 +1,2 @@
+# SavaDayDataToOracle
+日行情数据保存在oracle,改配置文件可以保存在mysql或者oracle
