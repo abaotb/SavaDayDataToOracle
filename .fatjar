@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jan 20 11:10:16 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\Administrator\\Desktop\\Ja\\LastestVersion\\SaveDayDataToOracle.jar
+manifest.mergeall=true
+manifest.mainclass=com.tangb.main.Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|junit.jar>
+includes=
